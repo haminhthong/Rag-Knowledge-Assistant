@@ -1,6 +1,3 @@
-# test-repo1
-
-
 
 
 Nhận ưu đãi
