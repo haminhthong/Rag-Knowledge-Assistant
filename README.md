@@ -1,22 +1,5 @@
 
 
-
-👉 Ví dụ:
-
-Thiết kế hệ thống giống Netflix hoặc Shopee
-
-➡️ Đây là mảng càng senior càng an toàn
-
-🔐 1.2 Cybersecurity (An ninh mạng)
-AI vừa là công cụ tấn công, vừa là phòng thủ
-
-Nhưng:
-→ Hacker luôn sáng tạo → cần con người 대응
-
-👉 Các hướng:
-
-Pentest
-
 Security Engineer
 
 SOC Analyst
