@@ -1,8 +1,4 @@
 
-👨‍💻 2.1 Lập trình cơ bản (Junior Dev)
-CRUD, code đơn giản
-
-AI (như GitHub Copilot) làm rất nhanh
 
 ➡️ Không phải mất việc, nhưng:
 
