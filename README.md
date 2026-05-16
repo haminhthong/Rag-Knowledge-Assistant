@@ -1,13 +1,4 @@
 
-➡️ Mảng này: AI càng phát triển → Cloud càng phát triển theo
-
-🤝 1.4 Business Analyst / Product Owner
-Làm việc với khách hàng, hiểu yêu cầu
-
-AI không thể thay thế:
-→ giao tiếp, đàm phán, hiểu ngữ cảnh
-
-⚠️ 2. Mảng bị AI ảnh hưởng MẠNH
 👨‍💻 2.1 Lập trình cơ bản (Junior Dev)
 CRUD, code đơn giản
 
