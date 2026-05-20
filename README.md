@@ -1,16 +1,4 @@
 
-
-📄 2.3 Data nhập liệu / xử lý đơn giản
-ETL basic, cleaning đơn giản → AI làm tốt
-
-🚀 3. Mảng sẽ PHÁT TRIỂN MẠNH trong tương lai
-🔥 3.1 AI / Machine Learning / Deep Learning
-Cốt lõi của xu hướng
-
-Liên quan đến:
-
-Machine Learning
-
 Deep Learning
 
 👉 Hot nhất hiện tại:
