@@ -1,24 +1,4 @@
 
-
-AI + Cloud
-
-AI + Security
-
-➡️ Ai làm được liên ngành → lương rất cao
-
-🎯 4. Lời khuyên riêng cho bạn (Data + Cloud + AI)
-Bạn đang chọn đúng hướng, nhưng nên đi theo lộ trình này:
-
-Giai đoạn 1:
-Python
-
-SQL
-
-Data cơ bản
-
-Giai đoạn 2:
-Data Engineering (ETL, pipeline)
-
 Cloud (AWS/GCP)
 
 Giai đoạn 3:
