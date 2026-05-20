@@ -1,23 +1,5 @@
 
 
-➡️ Data Engineer hiện tại cực thiếu người
-
-☁️ 3.3 Cloud Computing
-Mọi thứ đều chạy trên cloud
-
-AI càng mạnh → cần cloud càng nhiều
-
-👉 Nền tảng:
-
-Google Cloud
-
-Microsoft Azure
-
-➡️ Đây là “xương sống” của hệ thống hiện đại
-
-🤖 3.4 AI + X (kết hợp)
-AI + Data
-
 AI + Cloud
 
 AI + Security
