@@ -1,0 +1,12 @@
+[
+  {"question": "Nhân viên chính thức có bao nhiêu ngày phép năm?", "expected_sources": ["policy_leave.txt"], "split": "dev"},
+  {"question": "Nghỉ từ ba ngày cần đăng ký trước bao lâu?", "expected_sources": ["policy_leave.txt"], "split": "dev"},
+  {"question": "Tài khoản công ty có bắt buộc bật xác thực hai yếu tố không?", "expected_sources": ["security_guide.txt"], "split": "dev"},
+  {"question": "Khoản chi trên năm triệu đồng cần điều kiện gì?", "expected_sources": ["expense_policy.txt"], "split": "dev"},
+  {"question": "Người có thâm niên từ năm năm được thêm ngày phép thế nào?", "expected_sources": ["policy_leave.txt"], "split": "test"},
+  {"question": "Trường hợp nghỉ khẩn cấp phải bổ sung đơn trong thời hạn nào?", "expected_sources": ["policy_leave.txt"], "split": "test"},
+  {"question": "Sự cố an ninh mạng cần báo cho bộ phận nào?", "expected_sources": ["security_guide.txt"], "split": "test"},
+  {"question": "Có được chia sẻ mật khẩu nội bộ cho người khác không?", "expected_sources": ["security_guide.txt"], "split": "test"},
+  {"question": "Hồ sơ hoàn ứng phải nộp cho phòng nào?", "expected_sources": ["expense_policy.txt"], "split": "test"},
+  {"question": "Thời hạn nộp hồ sơ thanh toán sau chuyến công tác là bao lâu?", "expected_sources": ["expense_policy.txt"], "split": "test"}
+]
