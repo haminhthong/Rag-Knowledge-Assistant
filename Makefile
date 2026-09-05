@@ -10,8 +10,12 @@ train:
 evaluate:
 	python -m src.evaluate
 
+ablation:
+	python scripts/ablation_experiments.py
+
 serve:
 	uvicorn src.api:app --host 0.0.0.0 --port 8000
 
 test:
 	pytest -q
+
